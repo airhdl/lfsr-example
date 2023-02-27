@@ -1,0 +1,5 @@
+vunit_out/
+.settings/
+.library_mapping.xml
+.project
+*.pyc
