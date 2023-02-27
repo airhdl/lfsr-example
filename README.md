@@ -8,5 +8,4 @@ The VHDL testbench is based on [VUnit](https://vunit.github.io/). To run the tes
 python run.py
 ```
 
-Related blog post: []()
-
+Related blog post: [Using airhdl to Design a PN Sequence Checker for an Analog Devices ADC](https://airhdl.com/blog/2023/02/27/using-airhdl-to-design-pn-sequence-checkers-for-analog-devices-adcs/)
